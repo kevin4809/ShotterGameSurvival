@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d41965b8ab7ab844a809bad4afd8f812
+timeCreated: 1512092262
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Supreme
+  fontNames:
+  - Supreme
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
